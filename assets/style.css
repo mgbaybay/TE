@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav {
+    padding: 2rem;
+}
+nav img {
+    display: inline-block;
+}
+li {
+    list-style: none;
+    display: inline-block;
+    margin: 0.75rem;
+    color: white;
+}
+i {
+    margin: 0.5rem;
+}
+.front {
+    background-image: url("../assets/img/background.jpg");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    height: 100vh;
+}
